@@ -7,7 +7,7 @@
     "inviteList": "index.js"
   },
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest"
   },
   "keywords": [
     "interview"

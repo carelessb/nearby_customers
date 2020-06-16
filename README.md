@@ -82,11 +82,11 @@ This uses the input and output files in /files
 
 * Set the current working directory of your command console to the application root and run this command:
 ```
-test
+npm test
 ``` 
 * To run the tests with coverage stats run this command:
 ```
-test --coverage
+npm test --coverage
 ```
 
 
@@ -101,4 +101,4 @@ test --coverage
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
