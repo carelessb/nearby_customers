@@ -1,0 +1,30 @@
+{
+  "name": "nearby_customers",
+  "version": "1.0.0",
+  "description": "Get list of nearby Intercom customers",
+  "main": "index.js",
+  "bin": {
+    "inviteList": "index.js"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "interview"
+  ],
+  "author": "Liam Cantwell",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "@jest/environment": "^26.0.1",
+    "@jest/globals": "^26.0.1",
+    "babel-jest": "*",
+    "jest": "*"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "esm": "^3.2.25",
+    "minimist": "^1.2.5"
+  }
+}
